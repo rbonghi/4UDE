@@ -6,7 +6,7 @@ New robot project with NVIDIA Jetson and xTion board
 
 ![Robot](https://github.com/rbonghi/XRobot/blob/master/images/XRobot.png)
 
-## Dependecies and installation
+## Dependencies and installation
 ```
 mkdir SolidWorks
 cd SolidWorks
