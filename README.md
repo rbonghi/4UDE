@@ -1,6 +1,6 @@
-# XRobot
+# 4UDE (Hei DUDE robot! :smile:)
+## For Unmanned Discovering of Enviroments
 New robot project with NVIDIA Jetson and xTion board
-###[Help me to find a new name for this robot](https://github.com/rbonghi/XRobot/issues/1)
 
 # Stay tuned on my [Blog](http://raffaello.officinerobotiche.it)
 
