@@ -1,4 +1,4 @@
-# 4UDE (Hei DUDE robot! :smile:)
+# 4UDE - Hey DUDE robot! :smile:
 **For Unmanned Discovering of Enviroments**
 
 New robot project with NVIDIA Jetson and xTion board
