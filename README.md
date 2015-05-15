@@ -5,7 +5,7 @@ New robot project with NVIDIA Jetson and xTion board
 
 # Stay tuned on my [Blog](http://raffaello.officinerobotiche.it)
 
-![Robot](https://github.com/rbonghi/XRobot/blob/master/images/XRobot.png)
+![Robot](https://github.com/rbonghi/XRobot/blob/master/images/4UDE.png)
 
 ## Dependencies and installation
 ```
